@@ -1,0 +1,3 @@
+- Use parameterized queries
+- Input validation
+- Least privilege DB accounts
