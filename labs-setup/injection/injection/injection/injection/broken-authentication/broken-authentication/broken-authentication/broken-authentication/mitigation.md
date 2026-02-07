@@ -1,0 +1,4 @@
+- Implement strong password policy
+- Enable rate limiting
+- Use MFA
+- Secure session handling
