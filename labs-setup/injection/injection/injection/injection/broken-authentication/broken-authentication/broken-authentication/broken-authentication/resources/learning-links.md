@@ -1,0 +1,3 @@
+- OWASP Top 10 Official Docs
+- OWASP Cheat Sheets
+- PortSwigger Web Security Academy
